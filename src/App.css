@@ -1,0 +1,13 @@
+input {
+  width: 100%;
+}
+
+.rkRow {
+  margin: 10px 5px;
+}
+.rkbutton {
+  min-width: 80px;
+}
+p {
+  font-weight: 700;
+}
